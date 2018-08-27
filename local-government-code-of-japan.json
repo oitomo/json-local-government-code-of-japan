@@ -24758,6 +24758,12 @@
                 "name": "糸島市",
                 "kana": "いとしまし",
                 "deleted": "false"
+              },
+              {
+                "code": "40231",
+                "name": "那珂川市",
+                "kana": "なかがわし",
+                "deleted": "false"
               }
             ],
             "districts": [
@@ -24794,7 +24800,7 @@
                     "code": "40305",
                     "name": "那珂川町",
                     "kana": "なかがわまち",
-                    "deleted": "false"
+                    "deleted": "true"
                   }
                 ],
                 "deleted": "false"
